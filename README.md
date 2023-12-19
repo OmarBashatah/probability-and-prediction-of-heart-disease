@@ -1,1 +1,1 @@
-# probability-and-prediction-of-heart-disease
+# Probability-and-Prediction-of-Heart-Disease
